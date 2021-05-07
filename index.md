@@ -1,5 +1,5 @@
 ---
-layout: docs
+layout: page
 title: Introduction
 description: Getting started with NGTP
 ---
