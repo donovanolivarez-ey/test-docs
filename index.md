@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: deafult
 nav_order: 1
 ---
 
